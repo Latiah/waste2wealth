@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+.container{
+    display:flex;   
+}
+.welcome{
+    background-color:white;
+    color:black;
+    padding:80px;
+    margin-bottom:40px;
+     margin-top:30px;
+     margin-left:200px;
+    
+}
+h2{
+    color:yellowgreen;
+}
+.forms{
+    background-color:yellowgreen;
+    color:BLACK;
+    padding:40px;
+    margin-top:30px;
+    margin-right:300px;
+    font-size:20px;
+    margin-bottom:40px;
+}
+.inputs{
+    padding:8px 50px;
+    margin-top:8px;
+}
+label{
+margin-top:8px;
+}
+button{
+    padding:8px 60px;
+    color:white;
+    background-color:black;
+    margin-top:15px;
+    border:1px solid black;
+    font-size:20px;
+    margin-left:30px;
+}
+.btn1{
+     padding:4px 20px;
+     
+}
